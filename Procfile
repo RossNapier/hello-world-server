@@ -1,2 +1,2 @@
 web: npm run seeds
-npm run server:dev
+worker: npm run server:dev
